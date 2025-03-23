@@ -1,6 +1,6 @@
 ## Hi there 👋
-# This is Max. New to Github. 
-# Looking for a wonderful learning journey here. 😀
+## This is Max. New to Github. 
+## Looking for a wonderful learning journey here. 😀
 
 <!--
 **SMaxGo/SMaxGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
